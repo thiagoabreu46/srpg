@@ -1,0 +1,2 @@
+#define LARGURA_TELA 1280
+#define ALTURA_TELA 720
